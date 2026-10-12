@@ -1,4 +1,6 @@
 # Cedar Bridge Cybersecurity Case Study
+<img width="1326" height="651" alt="Cedar-Bridge-Network-Diagram drawio" src="https://github.com/user-attachments/assets/379162ed-0a31-49a2-9098-569240ad284a" />
+
 
 A fictional SOC analyst case study covering asset risk assessment, authentication log analysis, network security fundamentals, access control, and incident reporting.
 
